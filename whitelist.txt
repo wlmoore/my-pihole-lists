@@ -25,3 +25,5 @@ cloudfront.net
 go.redirectingat.com
 r20.rs6.net
 network.bazaarvoice.com
+watson.telemetry.microsoft.com
+at.atwola.com
