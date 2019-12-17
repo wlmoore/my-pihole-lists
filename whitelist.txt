@@ -4,15 +4,12 @@ cdn.livechatinc.com
 reports.crashlytics.com
 demdex.net
 device-metrics-us.amazon.com
-googleadservices.com
-googletagmanager.com
 pardot.com
 mcssl.com
 msmetrics.ws.sonos.com
 apple.com
 dpm.demdex.net
 charter.demdex.net
-www.googleadservices.com
 api.mixpanel.com
 e.crashlytics.com
 go.pardot.com
@@ -27,3 +24,4 @@ r20.rs6.net
 network.bazaarvoice.com
 watson.telemetry.microsoft.com
 at.atwola.com
+www.googleadservices.com
