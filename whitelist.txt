@@ -25,3 +25,4 @@ watson.telemetry.microsoft.com
 at.atwola.com
 www.googleadservices.com
 star-mini.c10r.facebook.com
+www.ojrq.net
