@@ -27,3 +27,5 @@ www.googleadservices.com
 star-mini.c10r.facebook.com
 www.ojrq.net
 www.avantlink.com
+trackcmp.net
+app.adjust.com
